@@ -1,0 +1,4 @@
+Instructions:
+
+The goal is to build the program for a coffee machine.
+
